@@ -1,0 +1,2 @@
+
+CATEGORIES = ['programming', 'animals', 'countries']
